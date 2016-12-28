@@ -1,0 +1,29 @@
+Windows Installation
+--------------------
+
+Download the most recent ".jar" file, then put it into the "plugins"
+folder of the ImageJ distribution. By default, this folder is:
+
+C:\Program Files\ImageJ\plugins\
+
+
+Linux Installation
+------------------
+
+Download the most recent ".jar" file, then put it into the following
+folder:
+
+~/.imagej/plugins/
+
+
+Building from source
+====================
+
+You will first have to install CMake (http://www.cmake.org/) and, of
+course, ImageJ. Here are the commands to build from source under
+Linux:
+
+# mkdir Build
+# cd Build
+# cmake ..
+# make

@@ -1,2 +1,5 @@
 # dcm4chee-imagej
-Image J Plugin for DCM4CHEE Arc Light Edit
+
+This repository contains an ImageJ plugin that allows to easily access
+DICOM images that are stored in dcm4chee arc light. This plugin might
+be useful to medical physicists for QA tasks.
